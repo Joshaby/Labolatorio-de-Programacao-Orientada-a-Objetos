@@ -1,0 +1,5 @@
+2
+
+    1 - javac src/um.java src/Outro.java -b bin
+    2 - jar -cvmf manifest/um.txt dist/um.jar -C bin um.class -C bin Outro.class
+    3 - java -jar dist/um.jar

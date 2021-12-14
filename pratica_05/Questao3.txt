@@ -1,0 +1,18 @@
+descontarImposto(Funcionario f) {...} :
+- Nesse caso, seria possivel desconstar de todas as classes concretas que herdassem direta e indiretamente, fato que não pode ser ocorrido
+
+descontarImposto(Professor p){...} :
+- É possivel desconstar de ProfEfetivo, como GerCampus não é um Professor, e sim um gerente, não é possível desconstar dele. E também seria possível desconstar de objetos que não fossem ProfEfetivo, oque é um erro
+
+descontarImposto(Gerente g){...}
+- É possivel desconstar de GerCampus, como ProfEfetivo não é um Gerente, e sim um Professor, não é possível desconstar dele. E também seria possível desconstar de objetos que não fossem GerCampus, oque é um erro
+
+descontarImposto(ProfEfetivo pe){...}
+- É possivel desconstar de ProfEfetivo, mas só objetos que sua instância seja um ProfEfetivo. Então, não é possível desconstar de um GerCampus
+
+descontarImposto(GerCampus gc){...}
+- É possivel desconstar de GerCampus, mas só objetos que sua instância seja um GerCampus. Então, não é possível desconstar de um ProfEfetivo
+
+
+
+- Seria usada um interface. Interface sempre é usada quando classes não possuem uma relação entre si, no caso, compartilham o mesmo, pai, mas possuem métodos iguais, como nesse caso, um método de desconstar salário. Se um Palestrante Visitante, se seu salário tivesse que ser desconstado, bastaria ele implementar a interface e sobrescrever o método dessa interface, caso ele não sobrescreva, ele vira uma classe concreta

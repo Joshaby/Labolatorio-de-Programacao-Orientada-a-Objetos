@@ -1,0 +1,6 @@
+br/edu/ifpb/poo/ServidorClientes.class
+br/edu/ifpb/poo/ClienteMaquina.class
+br/edu/ifpb/poo/ClienteException.class
+br/edu/ifpb/poo/Cliente.class
+br/edu/ifpb/poo/MetodosClientes_IF.class
+br/edu/ifpb/poo/Servidor.class

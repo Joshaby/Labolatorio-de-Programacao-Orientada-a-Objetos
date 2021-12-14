@@ -1,0 +1,8 @@
+a - Verdadeiro
+b - Falso. HashSet não é ordenado
+c - Verdadeiro
+d - Verdadeiro
+e - Falso. Esse construtor será usado nos filhos dessa classe para iniciar os métodos e variáveis da classe pai
+f - Verdadeiro
+g - Falso. O comparator será usado para ordenar "k" que é a chave
+h - Verdadeiro

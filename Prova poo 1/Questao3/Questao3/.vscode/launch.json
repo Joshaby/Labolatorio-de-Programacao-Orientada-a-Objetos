@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - UsarProcessadorProduto",
+            "request": "launch",
+            "mainClass": "br.edu.ifpb.poo.UsarProcessadorProduto",
+            "projectName": "Questao3"
+        }
+    ]
+}

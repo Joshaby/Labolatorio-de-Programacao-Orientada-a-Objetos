@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/modulo-gui-texto/moduloguitexto.iml" filepath="$PROJECT_DIR$/modulo-gui-texto/moduloguitexto.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modulo-processador-arquivo/moduloprocessadorarquivo.iml" filepath="$PROJECT_DIR$/modulo-processador-arquivo/moduloprocessadorarquivo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/projeto-arquivo-app.iml" filepath="$PROJECT_DIR$/projeto-arquivo-app.iml" />
+    </modules>
+  </component>
+</project>

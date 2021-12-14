@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Main",
+            "request": "launch",
+            "mainClass": "br.edu.ifpb.poo.Main",
+            "projectName": "Questao1"
+        }
+    ]
+}

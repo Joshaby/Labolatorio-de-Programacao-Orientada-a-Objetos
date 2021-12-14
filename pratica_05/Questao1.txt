@@ -1,0 +1,35 @@
+a - Verdadeira
+
+b - Falso - Ela também pode contêr métodos e atributos sem ser abstrato
+
+c - Verdadeira
+
+d - Verdadeira
+
+e - Verdadeira
+
+f - Verdadeira
+
+g - Verdadeira
+
+h - Falso - É usada a keyword new
+
+i - Falso - É usada a keyword implements
+
+j - Verdadeiro
+
+k - Verdadeiro
+
+l - Falso - Poder tipo interface
+
+m - Falso - Herança de tipo, uma classe recebe novos tipos e é obrigado a sobrescrever os métodos
+
+n - Verdadeiro
+
+o - Falso - Ela possui construtores, pois uma subclasse precisa do construtor para iniciar os métodos e variáveis da superclasse
+
+p - Verdadeiro
+
+q - Verdadeiro
+
+r - Falso - Só é possível usar métodos da referência

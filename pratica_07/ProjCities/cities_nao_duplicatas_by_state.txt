@@ -1,0 +1,16 @@
+Mesa, AZ, 452084
+Sacramento, CA, 475516
+Denver, CO, 634265
+Washington, DC, 632323
+Atlanta, GA, 443775
+Louisville/Jefferson County, KY, 605110
+Baltimore, MD, 621342
+Kansas, MO, 464310
+Albuquerque, NM, 555417
+Las Vegas, NV, 596424
+Oklahoma, OK, 599199
+Portland, OR, 603106
+Nashville-Davidson, TN, 624496
+Virginia Beach, VA, 447021
+Seattle, WA, 634535
+Milwaukee, WI, 598916

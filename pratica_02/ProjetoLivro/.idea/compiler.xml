@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="Livro" />
+        <module name="TestCatalogo" />
+        <module name="Catálogo" />
+        <module name="Catalogo" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="Catalogo" target="11" />
+      <module name="Catálogo" target="11" />
+      <module name="Livro" target="11" />
+      <module name="ProjetoLivro" target="11" />
+      <module name="TestCatalogo" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
